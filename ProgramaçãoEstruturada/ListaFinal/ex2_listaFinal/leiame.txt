@@ -1,0 +1,19 @@
+Nome: Gustavo Breno Nunes Godinho
+RA: 11202130028
+
+PARA COMPILAR:
+
+O arquivo main é o "ex2_listaFinal.c"
+
+Comandos do Makefile
+ * make -> compila o programa
+ * run -> Para executar o código
+ * clean -> deleta o executável e todas as suas possíveis dependências 
+
+ COMO O CÓDIGO FUNCIONA
+ Primeiramente, será solicitado o nome do arquivo de entrada, que deve ser colocado com extensão (.txt)
+ Em seguida, será solicitado o nome do arquivo de saída, que também deve ser colocado com extensão
+
+ Ao final, será gerado um arquivo txt com o resultado do código.
+
+ 

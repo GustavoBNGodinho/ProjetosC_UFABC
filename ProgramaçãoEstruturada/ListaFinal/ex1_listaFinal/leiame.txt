@@ -1,0 +1,12 @@
+Nome: Gustavo Breno Nunes Godinho
+RA: 11202130028
+
+PARA COMPILAR:
+
+O arquivo main é o "ex1_listaFinal.c"
+
+Comandos do Makefile
+ * make -> compila o programa
+ * clean -> deleta o executável e todas as suas possíveis dependências 
+
+ 
